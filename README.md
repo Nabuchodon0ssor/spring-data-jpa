@@ -155,6 +155,7 @@ http://localhost:3333/springboot_rest/api/employees
 | POST   | /api/employees       | Create new employee|
 | PUT    | /api/employees       | Update employee    |
 | DELETE | /api/employees/{id}  | Delete employee    |
+| GET    | /api/employees/{name}| Get employees by name|
 
 
 ### 🧪 Example JSON
