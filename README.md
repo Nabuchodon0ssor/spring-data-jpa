@@ -48,7 +48,7 @@ Controller → Service → Repository → Entity
 
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/YOUR_USERNAME/spring-data-jpa.git
+git clone https://github.com/Nabuchodon0ssor/spring-data-jpa.git
 ```
 
 Or download it as a ZIP archive and extract it.
